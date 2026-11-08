@@ -1,0 +1,6 @@
+# Pasta de configuração local do Visual Studio / SSMS
+.vs/
+
+# Ficheiros temporários do Windows
+Thumbs.db
+desktop.ini
